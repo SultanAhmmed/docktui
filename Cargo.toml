@@ -1,0 +1,20 @@
+[package]
+name = "docktui"
+version = "0.1.0"
+edition = "2024"
+description = "A lightweight, terminal-based Docker management tool (like htop for containers)"
+license = "MIT"
+repository = "https://github.com/SultanAhmmed/docktui"
+homepage = "https://github.com/SultanAhmmed/docktui"
+
+[dependencies]
+ratatui = "0.28"
+crossterm = "0.28"
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+anyhow = "1"
+bollard = "0.16"
+futures-util = "0.3"
+dirs = "5"
+
