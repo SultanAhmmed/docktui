@@ -24,11 +24,17 @@ cargo install docktui
 ## Demo
 
 <p align="center">
-  <img src="demo/1.png" alt="Containers view" width="550">
-  <img src="demo/2.png" alt="Live logs" width="550">
-  <img src="demo/3.png" alt="Resource stats" width="550">
-  <img src="demo/4.png" alt="Images view" width="550">
-  <img src="demo/5.png" alt="Compose view" width="550">
+  <img src="demo/1.png" alt="Containers view" width="500">
+  <img src="demo/2.png" alt="Live logs" width="500">
+</p>
+
+<p align="center">
+  <img src="demo/3.png" alt="Resource stats" width="500">
+  <img src="demo/4.png" alt="Images view" width="500">
+</p>
+
+<p align="center">
+  <img src="demo/5.png" alt="Compose view" width="500">
 </p>
 
 ## Keybindings
